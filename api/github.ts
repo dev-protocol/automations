@@ -5,6 +5,6 @@ export default function handler(
 	res: VercelResponse
 ): VercelResponse {
 	// eslint-disable-next-line functional/no-expression-statement
-	console.log({ 'req.body': req.body })
+	console.log('req.body.action', req.body.action)
 	return res.status(200).json(req.body)
 }
