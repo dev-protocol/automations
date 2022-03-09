@@ -17,6 +17,13 @@
 	],
 	"overrides": [
 		{
+			"files": ["pages/api/**/*.ts"],
+			"rules": {
+				"functional/no-return-void": "off",
+				"functional/no-expression-statement": "off"
+			}
+		},
+		{
 			"files": ["**/*.test.ts"],
 			"rules": {
 				"functional/no-expression-statement": "off",
