@@ -19,7 +19,6 @@
 		{
 			"files": ["pages/api/**/*.ts"],
 			"rules": {
-				"functional/no-return-void": "off",
 				"functional/no-expression-statement": "off"
 			}
 		},
