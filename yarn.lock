@@ -332,24 +332,24 @@
     "@typescript-eslint/types" "5.48.1"
     eslint-visitor-keys "^3.3.0"
 
-"@vercel/build-utils@5.7.3":
-  version "5.7.3"
-  resolved "https://registry.yarnpkg.com/@vercel/build-utils/-/build-utils-5.7.3.tgz#3fbe98f0d22686e1cbcd75cddea249657452436e"
-  integrity sha512-Q4Ei4oG+tx4OnENHqqRlfAks6Rp3U/viOTUITnWpLgoej2xQUnnfk16qvHYZeE1ZGpblPoeDwD8ZWsxOkt3wHA==
+"@vercel/build-utils@5.7.4":
+  version "5.7.4"
+  resolved "https://registry.yarnpkg.com/@vercel/build-utils/-/build-utils-5.7.4.tgz#77027cd943af5ad6bd9d5d599f8fd6995f18e42d"
+  integrity sha512-QesfcJ2LaD0tgouOI5XqF90WU5Byy5dg8ez3lttwQBkg1Lw7zuawhVYZJdoAL/GlZruvQzlpS/tUvUmUzrPOzQ==
 
 "@vercel/node-bridge@3.1.3":
   version "3.1.3"
   resolved "https://registry.yarnpkg.com/@vercel/node-bridge/-/node-bridge-3.1.3.tgz#7c8d83e18a4cb327def776810df182ecb148fbc0"
   integrity sha512-NIuiwktIsvCWZ7aToQ4sFWNYKQbojghJ2OobjTL14nj25cuxP3XsV8LkMarIsiWG/vQxiSADBLwr/7fOh8znGg==
 
-"@vercel/node@2.8.4":
-  version "2.8.4"
-  resolved "https://registry.yarnpkg.com/@vercel/node/-/node-2.8.4.tgz#bdfc16446e17909c22806af77f7ba0947fb72dfa"
-  integrity sha512-It65+nyMnWZy0jK5AT/kdPW52lzSd7GZDgV7kbToSekHeNggLj0S35J8u6izGMUjQV3BIvRZinRJnu4Ww0FLnA==
+"@vercel/node@2.8.5":
+  version "2.8.5"
+  resolved "https://registry.yarnpkg.com/@vercel/node/-/node-2.8.5.tgz#d74fae9a4906efbb860d217a6043d9d9dc79585f"
+  integrity sha512-DOPrEGJIO2mypOR/D1EFwsLMMPtAQOUMDGRjr4LhHK+yqyPiDcupTzC3RosqncINzc4Abptke2iqiEmlRC0iYw==
   dependencies:
     "@edge-runtime/vm" "2.0.0"
     "@types/node" "14.18.33"
-    "@vercel/build-utils" "5.7.3"
+    "@vercel/build-utils" "5.7.4"
     "@vercel/node-bridge" "3.1.3"
     "@vercel/static-config" "2.0.6"
     edge-runtime "2.0.0"
