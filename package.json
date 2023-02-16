@@ -25,7 +25,7 @@
 		"@types/ramda": "0.28.23",
 		"@typescript-eslint/eslint-plugin": "5.52.0",
 		"@typescript-eslint/parser": "5.52.0",
-		"@vercel/node": "2.9.5",
+		"@vercel/node": "2.9.6",
 		"ava": "4.3.3",
 		"dotenv": "16.0.3",
 		"eslint": "7.32.0",
