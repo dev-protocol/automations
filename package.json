@@ -16,7 +16,7 @@
 	"author": "Dev Protocol",
 	"license": "MPL-2.0",
 	"dependencies": {
-		"ramda": "0.28.0"
+		"ramda": "0.29.0"
 	},
 	"devDependencies": {
 		"@ava/typescript": "3.0.1",
