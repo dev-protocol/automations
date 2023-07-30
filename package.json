@@ -19,7 +19,7 @@
 		"ramda": "0.29.0"
 	},
 	"devDependencies": {
-		"@ava/typescript": "3.0.1",
+		"@ava/typescript": "4.1.0",
 		"@types/dotenv": "8.2.0",
 		"@types/node": "18.17.1",
 		"@types/ramda": "0.29.3",
